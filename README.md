@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/qpd-v-mcp-wordcounter-badge.jpg)](https://mseep.ai/app/qpd-v-mcp-wordcounter)
+
 # MCP Word Counter
 
 A Model Context Protocol server that provides tools for analyzing text documents, including counting words and characters. This server helps LLMs perform text analysis tasks by exposing simple document statistics functionality.
